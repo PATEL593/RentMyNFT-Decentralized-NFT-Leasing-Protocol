@@ -1,5 +1,5 @@
 # Project Title: RentMyNFT: Decentralized NFT Leasing Protocol
-
+project done by Rishabh Patel 
 ## Project Description
 
 RentMyNFT is a decentralized smart contract protocol that enables users to lease their ERC-721 NFTs for a fixed period in exchange for payment. This opens the door for temporary usage rights, such as for metaverse assets, in-game items, or access tokens.
