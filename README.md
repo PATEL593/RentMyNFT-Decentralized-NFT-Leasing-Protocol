@@ -21,8 +21,8 @@ To unlock liquidity and utility in idle NFTs by creating a trustless, programmab
 - Support for ERC-1155 and ERC-4907 extensions
 - Reputation and review system for renters and owners
 - Integration with NFT marketplaces and metaverse platforms
-- Project done by Rishabh patel......
-## Contract Details
+- Project done by Rishabh Patel......
+## Contract Deatails 
 0x2f173b30767f1a4376c8DFcA82d95ef6946F3BEC
 ![alt text](image.png) project done by
 Rishabh Patel....
