@@ -1,4 +1,4 @@
-i# Project Title: RentMyNFT: Decentralized NFT Leasing Protocol
+# Project Title: RentMyNFT: Decentralized NFT Leasing Protocol
  
 ## Project Description
 
