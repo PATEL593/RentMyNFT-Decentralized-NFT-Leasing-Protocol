@@ -13,7 +13,8 @@ To unlock liquidity and utility in idle NFTs by creating a trustless, programmab
 - Lease NFTs without needing to trust the renter
 - Time-based expiry and automatic return of ownership
 - On-chain payment and rental terms enforcement
-- Support for any ERC-721 compatible asset
+- Support for any ERC-721 compatible
+- asset
 
 ## Future Scope
 
@@ -25,4 +26,4 @@ To unlock liquidity and utility in idle NFTs by creating a trustless, programmab
 ## Contract Deatails 
 0x2f173b30767f1a4376c8DFcA82d95ef6946F3BEC
 ![alt text](image.png) project done by
-Rishabh Patel....
+Rishabh Patel..
